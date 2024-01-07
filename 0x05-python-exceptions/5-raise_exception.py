@@ -1,6 +1,6 @@
-0-safe_print_list.py
 #!/usr/bin/python3
 
+# Write a function that raises a type exception.
+
 def raise_exception():
-    """Raise a TypeError exception."""
-    raise TypeError
+    raise TypeError()
