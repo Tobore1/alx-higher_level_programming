@@ -1,6 +1,6 @@
-0-safe_print_list.py
-g!/usr/bin/python3
+#!/usr/bin/python3
+
+# Write a function that raises a name exception with a message
 
 def raise_exception_msg(message=""):
-    """Raise a NameError exception with a message."""
     raise NameError(message)
